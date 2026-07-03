@@ -196,9 +196,9 @@ Auth backend:    LDAP → DC01 (10.0.20.10)
 Base DN:         DC=corp,DC=local
 ```
 
-![OpenVPN Connected](docs/screenshots/09a-vpn-connected.png)
+![OpenVPN Connected](docs/screenshots/09a-openvpn-connected.png)
 
-![VPN ping DC01](docs/screenshots/09b-vpn-ping.png)
+![VPN ping DC01](docs/screenshots/09b-vpn-ping-dc.png)
 
 ---
 
