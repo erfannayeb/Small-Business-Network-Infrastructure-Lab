@@ -67,8 +67,8 @@ Three isolated network zones configured as separate interfaces on pfSense:
 
 All four interfaces confirmed active with correct IPs:
 
-![pfSense Interfaces](docs/screenshots/01a-pfsense-wan-lan.png)
-![pfSense Interfaces SRV DMZ](docs/screenshots/01b-pfsense-srv-dmz.png)
+![pfSense Interfaces](docs/screenshots/01-pfsense-interfaces.png)
+![pfSense Interfaces SRV DMZ](docs/screenshots/01-pfsense-interfaces2.png)
 
 ### Firewall Ruleset
 
@@ -196,9 +196,9 @@ Auth backend:    LDAP → DC01 (10.0.20.10)
 Base DN:         DC=corp,DC=local
 ```
 
-![OpenVPN Connected](docs/screenshots/09a-openvpn-connected.png)
+![OpenVPN Connected](docs/screenshots/9a-openvpn-connected.png)
 
-![VPN ping DC01](docs/screenshots/09b-vpn-ping-dc.png)
+![VPN ping DC01](docs/screenshots/9b-vpn-ping-dc.png)
 
 ---
 
